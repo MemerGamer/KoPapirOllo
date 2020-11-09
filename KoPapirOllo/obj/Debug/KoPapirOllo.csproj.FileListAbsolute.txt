@@ -1,0 +1,9 @@
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.exe.config
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.csprojResolveAssemblyReference.cache
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.Form1.resources
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.Properties.Resources.resources
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.csproj.GenerateResource.Cache
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.exe
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.pdb
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.exe
+c:\users\hunor-pc\documents\visual studio 2013\Projects\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.pdb
